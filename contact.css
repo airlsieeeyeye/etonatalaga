@@ -1,0 +1,45 @@
+html {
+    height: 130%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background: linear-gradient( to left top, #167bd1, #000153);
+  }
+  
+  h1 {
+      font-size: 50px;
+      background: -webkit-linear-gradient(#413bb5, #0c2c53);
+      background-clip: text;
+      -webkit-text-fill-color: transparent;
+  
+    font-family: Times New Roman ;
+    text-align: center;
+    
+    }
+  header {
+    background-image: url(https://assets.euromoneydigital.com/dims4/default/01fc673/2147483647/strip/true/crop/995x559+0+0/resize/840x472!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fa5%2F90%2F0f1167c248d59035af5b47af3fc6%2Fgaming-virtual-blue-adobestock.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding-top: 90px;
+  }
+  ul {
+     list-style-type: none;
+      margin: 0;
+      padding: 0;
+      font-family: Garamond;
+  
+  }
+  h3 {
+    font-size: 30px;
+    color: #4f9dd8;
+    text-align: center;
+  }
+  p {
+    font-size: 30px;
+    color: #3e8cc7;
+    text-align: center;
+  }
+  
